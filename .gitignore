@@ -1,0 +1,11 @@
+# Python dan Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database lokal
+db.sqlite3
+
+# Konfigurasi VS Code (opsional, tapi disarankan)
+.vscode/
